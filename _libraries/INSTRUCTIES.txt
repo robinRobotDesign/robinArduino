@@ -1,0 +1,4 @@
+1. Zoek in de map (Mijn) Documenten naar de map 'Arduino'.
+2. In de map 'Arduino' vindt je de map 'libraries'.
+3. Zet de library-mappen van deze map (_Libraries) over naar '(Documents/Arduino/)libraries'.
+4. Start de Arduino applicatie opnieuw op.
